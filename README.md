@@ -1,2 +1,2 @@
 # BeagleBoneGreen
-beagle bone sensorer
+scripten för bme280 sensoren
